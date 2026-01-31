@@ -3,14 +3,14 @@ An intelligent inventory forecasting system that helps predict future product de
 This project assists businesses in maintaining optimal stock levels, reducing overstock and stockouts.
 
 
-## 🚀 Features
+##  Features
 - Load and manage product data from CSV
 - Store inventory data using a database
 - Forecast future demand
 - Inventory alerts for low stock
 - Modular and scalable Python architecture
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Pandas
 - NumPy
@@ -18,7 +18,7 @@ This project assists businesses in maintaining optimal stock levels, reducing ov
 - Scikit-learn (if used)
 - VS Code
 
-## 📂 Project Structure
+##  Project Structure
 inventory_forecasting/
 │── app.py
 │── load_products_from_csv.py
