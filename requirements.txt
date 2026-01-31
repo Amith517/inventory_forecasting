@@ -1,0 +1,9 @@
+streamlit>=1.10
+pandas>=1.5
+numpy>=1.23
+matplotlib
+plotly
+statsmodels
+pmdarima
+prophet
+schedule
